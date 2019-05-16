@@ -1,0 +1,2 @@
+1
+Change the content of the file manually and trigger the program by a signal.
